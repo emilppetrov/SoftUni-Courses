@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\bin\Debug\netcoreapp3.1\E06.CharityCampaign.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E06.CharityCampaign\obj\Debug\netcoreapp3.1\E06.CharityCampaign.genruntimeconfig.cache

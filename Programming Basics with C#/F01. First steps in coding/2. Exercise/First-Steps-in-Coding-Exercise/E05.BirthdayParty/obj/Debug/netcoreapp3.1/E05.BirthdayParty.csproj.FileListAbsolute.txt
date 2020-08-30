@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\bin\Debug\netcoreapp3.1\E05.BirthdayParty.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E05.BirthdayParty\obj\Debug\netcoreapp3.1\E05.BirthdayParty.genruntimeconfig.cache

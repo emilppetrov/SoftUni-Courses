@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\bin\Debug\netcoreapp3.1\E07.FruitMarket.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E07.FruitMarket\obj\Debug\netcoreapp3.1\E07.FruitMarket.genruntimeconfig.cache

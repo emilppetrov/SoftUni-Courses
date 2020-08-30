@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\bin\Debug\netcoreapp3.1\E08.FishTank.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E08.FishTank\obj\Debug\netcoreapp3.1\E08.FishTank.genruntimeconfig.cache
