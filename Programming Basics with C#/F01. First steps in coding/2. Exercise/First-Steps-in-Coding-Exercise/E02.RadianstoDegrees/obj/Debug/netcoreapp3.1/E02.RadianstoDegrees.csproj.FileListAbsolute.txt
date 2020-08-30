@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\bin\Debug\netcoreapp3.1\E02.RadianstoDegrees.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E02.RadianstoDegrees\obj\Debug\netcoreapp3.1\E02.RadianstoDegrees.genruntimeconfig.cache

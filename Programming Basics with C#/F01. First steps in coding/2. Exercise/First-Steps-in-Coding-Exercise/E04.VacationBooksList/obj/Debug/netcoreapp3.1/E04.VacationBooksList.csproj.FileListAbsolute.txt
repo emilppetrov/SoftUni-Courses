@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\bin\Debug\netcoreapp3.1\E04.VacationBooksList.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E04.VacationBooksList\obj\Debug\netcoreapp3.1\E04.VacationBooksList.genruntimeconfig.cache

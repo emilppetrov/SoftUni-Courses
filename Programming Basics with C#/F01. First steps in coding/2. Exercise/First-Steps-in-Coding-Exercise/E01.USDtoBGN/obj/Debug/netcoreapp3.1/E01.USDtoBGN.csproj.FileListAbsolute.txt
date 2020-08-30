@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\bin\Debug\netcoreapp3.1\E01.USDtoBGN.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E01.USDtoBGN\obj\Debug\netcoreapp3.1\E01.USDtoBGN.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.exe
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.deps.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\bin\Debug\netcoreapp3.1\E03.DepositCalculator.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.dll
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.pdb
+D:\SoftUni\Programming Basics with C#\1. First steps in coding\2. Exercise\First-Steps-in-Coding-Exercise\E03.DepositCalculator\obj\Debug\netcoreapp3.1\E03.DepositCalculator.genruntimeconfig.cache
