@@ -2,7 +2,7 @@
 > C#
 * - [x] 0. **Welcome to SoftUni**
 * - [x] 1. **First steps in coding**
-* - [ ] 2. **Simple operations and calculations**
+* - [x] 2. **Simple operations and calculations**
 * - [ ] 3. **Conditional statements**
 * - [ ] 4. **Nested conditional statements**
 * - [ ] 5. **While-loops**
