@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.exe
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.deps.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.dll
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\bin\Debug\netcoreapp3.1\L01.GreetingbyName.pdb
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.dll
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.pdb
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L01.GreetingbyName\obj\Debug\netcoreapp3.1\L01.GreetingbyName.genruntimeconfig.cache
