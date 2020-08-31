@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.exe
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.deps.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.dll
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\bin\Debug\netcoreapp3.1\L06.PetShop.pdb
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.dll
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.pdb
+D:\SoftUni\Programming Basics with C#\2. Simple operations and calculations\1. Lab\Simple-Operations-and-Calculations-Lab\L06.PetShop\obj\Debug\netcoreapp3.1\L06.PetShop.genruntimeconfig.cache
