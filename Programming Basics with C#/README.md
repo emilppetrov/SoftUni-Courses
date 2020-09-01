@@ -3,7 +3,7 @@
 * - [x] 0. **Welcome to SoftUni**
 * - [x] 1. **First steps in coding**
 * - [x] 2. **Simple operations and calculations**
-* - [ ] 3. **Conditional statements**
+* - [x] 3. **Conditional statements**
 * - [ ] 4. **Nested conditional statements**
 * - [ ] 5. **While-loops**
 * - [ ] 6. **For-loops**
