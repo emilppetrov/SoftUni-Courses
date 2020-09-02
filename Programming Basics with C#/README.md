@@ -4,7 +4,7 @@
 * - [x] 1. **First steps in coding**
 * - [x] 2. **Simple operations and calculations**
 * - [x] 3. **Conditional statements**
-* - [ ] 4. **Nested conditional statements**
+* - [x] 4. **Nested conditional statements**
 * - [ ] 5. **While-loops**
 * - [ ] 6. **For-loops**
 * - [ ] 7. **Nested-loops**
