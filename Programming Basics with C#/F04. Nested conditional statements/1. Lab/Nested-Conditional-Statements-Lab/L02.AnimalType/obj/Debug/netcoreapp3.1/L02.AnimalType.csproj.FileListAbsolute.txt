@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.exe
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.deps.json
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.dll
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\bin\Debug\netcoreapp3.1\L02.AnimalType.pdb
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.dll
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.pdb
+D:\SoftUni\Programming Basics with C#\4. Nested conditional statements\1. Lab\Nested-Conditional-Statements-Lab\L02.AnimalType\obj\Debug\netcoreapp3.1\L02.AnimalType.genruntimeconfig.cache
