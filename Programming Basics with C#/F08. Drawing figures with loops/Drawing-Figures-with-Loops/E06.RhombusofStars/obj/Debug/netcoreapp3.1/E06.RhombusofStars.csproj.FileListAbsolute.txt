@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\bin\Debug\netcoreapp3.1\E06.RhombusofStars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E06.RhombusofStars\obj\Debug\netcoreapp3.1\E06.RhombusofStars.genruntimeconfig.cache

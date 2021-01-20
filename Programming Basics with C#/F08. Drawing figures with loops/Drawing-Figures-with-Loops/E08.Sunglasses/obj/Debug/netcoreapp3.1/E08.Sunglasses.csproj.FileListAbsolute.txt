@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\bin\Debug\netcoreapp3.1\E08.Sunglasses.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E08.Sunglasses\obj\Debug\netcoreapp3.1\E08.Sunglasses.genruntimeconfig.cache

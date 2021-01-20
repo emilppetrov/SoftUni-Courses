@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\bin\Debug\netcoreapp3.1\E07.ChristmasTree.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E07.ChristmasTree\obj\Debug\netcoreapp3.1\E07.ChristmasTree.genruntimeconfig.cache

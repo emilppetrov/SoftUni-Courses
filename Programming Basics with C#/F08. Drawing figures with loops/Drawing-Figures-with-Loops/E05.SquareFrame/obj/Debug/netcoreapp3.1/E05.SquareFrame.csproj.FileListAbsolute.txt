@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\bin\Debug\netcoreapp3.1\E05.SquareFrame.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E05.SquareFrame\obj\Debug\netcoreapp3.1\E05.SquareFrame.genruntimeconfig.cache
