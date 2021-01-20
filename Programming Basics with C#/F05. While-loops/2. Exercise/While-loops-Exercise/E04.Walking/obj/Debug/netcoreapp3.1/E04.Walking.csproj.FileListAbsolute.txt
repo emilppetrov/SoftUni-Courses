@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.exe
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.deps.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\bin\Debug\netcoreapp3.1\E04.Walking.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\2. Exercise\While-loops-Exercise\E04.Walking\obj\Debug\netcoreapp3.1\E04.Walking.genruntimeconfig.cache
