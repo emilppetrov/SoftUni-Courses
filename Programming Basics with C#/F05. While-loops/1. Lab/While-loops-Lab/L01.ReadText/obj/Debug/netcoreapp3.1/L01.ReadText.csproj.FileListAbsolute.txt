@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.exe
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.deps.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\bin\Debug\netcoreapp3.1\L01.ReadText.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L01.ReadText\obj\Debug\netcoreapp3.1\L01.ReadText.genruntimeconfig.cache
