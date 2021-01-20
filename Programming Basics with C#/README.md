@@ -5,8 +5,8 @@
 * - [x] 2. **Simple operations and calculations**
 * - [x] 3. **Conditional statements**
 * - [x] 4. **Nested conditional statements**
-* - [ ] 5. **While-loops**
-* - [ ] 6. **For-loops**
-* - [ ] 7. **Nested-loops**
-* - [ ] 8. **Drawing figures with loops**
-* - [ ] 9. **Exam**
+* - [x] 5. **While-loops**
+* - [x] 6. **For-loops**
+* - [x] 7. **Nested-loops**
+* - [x] 8. **Drawing figures with loops**
+* - [x] 9. **Exam**
