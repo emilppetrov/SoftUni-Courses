@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.exe
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.deps.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\bin\Debug\netcoreapp3.1\L07.MinNumber.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.dll
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.pdb
+D:\SoftUni\Programming Basics with C#\5. While-loops\1. Lab\While-loops-Lab\L07.MinNumber\obj\Debug\netcoreapp3.1\L07.MinNumber.genruntimeconfig.cache
