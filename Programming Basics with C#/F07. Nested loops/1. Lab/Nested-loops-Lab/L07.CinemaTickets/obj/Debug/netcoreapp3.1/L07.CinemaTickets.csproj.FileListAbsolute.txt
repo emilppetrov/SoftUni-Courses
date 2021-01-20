@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.exe
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.deps.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\bin\Debug\netcoreapp3.1\L07.CinemaTickets.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L07.CinemaTickets\obj\Debug\netcoreapp3.1\L07.CinemaTickets.genruntimeconfig.cache

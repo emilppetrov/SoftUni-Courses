@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.exe
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.deps.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\bin\Debug\netcoreapp3.1\L06.Building.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L06.Building\obj\Debug\netcoreapp3.1\L06.Building.genruntimeconfig.cache
