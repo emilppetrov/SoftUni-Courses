@@ -2,7 +2,7 @@
 ## Software Engineering Courses :computer:
 > C#                                            
 1. **Entry module**                             
-* - [ ] *Programming Basics with C#*
+* - [x] *Programming Basics with C#*
 2. **Fundamentals module**
 * - [ ] *C# Fundamentals*
 3. **C# Advanced**
