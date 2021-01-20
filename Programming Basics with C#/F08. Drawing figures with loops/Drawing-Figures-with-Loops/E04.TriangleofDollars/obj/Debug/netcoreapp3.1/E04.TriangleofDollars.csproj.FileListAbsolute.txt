@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\bin\Debug\netcoreapp3.1\E04.TriangleofDollars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E04.TriangleofDollars\obj\Debug\netcoreapp3.1\E04.TriangleofDollars.genruntimeconfig.cache

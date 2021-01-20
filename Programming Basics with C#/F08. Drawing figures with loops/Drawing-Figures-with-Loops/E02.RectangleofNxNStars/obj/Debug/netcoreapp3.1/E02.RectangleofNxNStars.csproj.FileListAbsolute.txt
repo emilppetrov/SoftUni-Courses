@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\bin\Debug\netcoreapp3.1\E02.RectangleofNxNStars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E02.RectangleofNxNStars\obj\Debug\netcoreapp3.1\E02.RectangleofNxNStars.genruntimeconfig.cache
