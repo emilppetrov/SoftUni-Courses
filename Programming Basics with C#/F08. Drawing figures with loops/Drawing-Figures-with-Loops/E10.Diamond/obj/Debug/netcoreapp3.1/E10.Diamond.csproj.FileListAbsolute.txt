@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\bin\Debug\netcoreapp3.1\E10.Diamond.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E10.Diamond\obj\Debug\netcoreapp3.1\E10.Diamond.genruntimeconfig.cache

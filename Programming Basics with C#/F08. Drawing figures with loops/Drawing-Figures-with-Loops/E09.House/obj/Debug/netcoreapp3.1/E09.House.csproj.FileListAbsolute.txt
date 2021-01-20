@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.exe
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.deps.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\bin\Debug\netcoreapp3.1\E09.House.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.dll
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.pdb
+D:\SoftUni\Programming Basics with C#\8. Drawing figures with loops\Drawing-Figures-with-Loops\E09.House\obj\Debug\netcoreapp3.1\E09.House.genruntimeconfig.cache
