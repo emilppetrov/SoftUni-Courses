@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.exe
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.deps.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\bin\Debug\netcoreapp3.1\L02.MultiplicationTable.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L02.MultiplicationTable\obj\Debug\netcoreapp3.1\L02.MultiplicationTable.genruntimeconfig.cache

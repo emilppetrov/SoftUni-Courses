@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.exe
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.deps.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\bin\Debug\netcoreapp3.1\L04.SumofTwoNumbers.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.dll
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.pdb
+D:\SoftUni\Programming Basics with C#\7. Nested loops\1. Lab\Nested-loops-Lab\L04.SumofTwoNumbers\obj\Debug\netcoreapp3.1\L04.SumofTwoNumbers.genruntimeconfig.cache
