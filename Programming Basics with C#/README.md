@@ -11,4 +11,4 @@
 * - [x] 8. **Drawing figures with loops**
 * - [x] 9. **Exam**
 
-**F** - Folder; **L** - Lab; **E** - Exercise/Exam;
+> ***F*** - Folder; ***L*** - Lab; ***E*** - Exercise/Exam;
