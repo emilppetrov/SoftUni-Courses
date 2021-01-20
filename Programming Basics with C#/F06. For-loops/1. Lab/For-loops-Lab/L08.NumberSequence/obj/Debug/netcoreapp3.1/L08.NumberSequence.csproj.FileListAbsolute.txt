@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.exe
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.deps.json
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.dll
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\bin\Debug\netcoreapp3.1\L08.NumberSequence.pdb
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.dll
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.pdb
+D:\SoftUni\Programming Basics with C#\6. For-loops\1. Lab\For-loops-Lab\L08.NumberSequence\obj\Debug\netcoreapp3.1\L08.NumberSequence.genruntimeconfig.cache
